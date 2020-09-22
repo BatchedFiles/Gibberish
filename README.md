@@ -1,2 +1,3 @@
-# IrcChat
-IRC client written in FreeBASIC
+﻿# IrcChat
+
+Classic Windows application IRC client written in FreeBASIC.
